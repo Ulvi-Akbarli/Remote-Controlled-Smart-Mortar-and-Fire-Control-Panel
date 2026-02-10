@@ -1,0 +1,13 @@
+C:\Users\Ulvi\Desktop\SmartFireControl\SmartFireControl\bin\Debug\SmartFireControl.exe.config
+C:\Users\Ulvi\Desktop\SmartFireControl\SmartFireControl\bin\Debug\SmartFireControl.exe
+C:\Users\Ulvi\Desktop\SmartFireControl\SmartFireControl\bin\Debug\SmartFireControl.pdb
+C:\Users\Ulvi\Desktop\SmartFireControl\SmartFireControl\obj\Debug\SmartFireControl.csproj.AssemblyReference.cache
+C:\Users\Ulvi\Desktop\SmartFireControl\SmartFireControl\obj\Debug\SmartFireControl.Form1.resources
+C:\Users\Ulvi\Desktop\SmartFireControl\SmartFireControl\obj\Debug\SmartFireControl.Properties.Resources.resources
+C:\Users\Ulvi\Desktop\SmartFireControl\SmartFireControl\obj\Debug\SmartFireControl.csproj.GenerateResource.cache
+C:\Users\Ulvi\Desktop\SmartFireControl\SmartFireControl\obj\Debug\SmartFireControl.csproj.CoreCompileInputs.cache
+C:\Users\Ulvi\Desktop\SmartFireControl\SmartFireControl\obj\Debug\SmartFireControl.exe
+C:\Users\Ulvi\Desktop\SmartFireControl\SmartFireControl\obj\Debug\SmartFireControl.pdb
+C:\Users\Ulvi\Desktop\SmartFireControl\SmartFireControl\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Ulvi\Desktop\SmartFireControl\SmartFireControl\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Ulvi\Desktop\SmartFireControl\SmartFireControl\obj\Debug\SmartFir.D8801157.Up2Date
